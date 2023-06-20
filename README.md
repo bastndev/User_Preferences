@@ -1,5 +1,5 @@
 <!--Title @bastndev-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF05A8&size=35&center=true&vCenter=true&width=1000&lines=User🍔Preferences;User🌻Preferences;User👩‍💻Preferences)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=User🍔Preferences;User🌻Preferences;User👩‍💻Preferences)
 # Dependencies
 <!-- Dependencies -->
 >- [🔗Link ](https://pub.dev/packages/provider)  $``flutter pub add lottie`` provider: ^6.0.5 
